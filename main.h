@@ -4,8 +4,8 @@
 
 int _putchar(char c);
 int print_string(va_list s);
-int print_char(va_list c);
 int _printf(const char *format, ...);
+int print_char(va_list c);
 typedef struct code_format
 {
   char *sc;
