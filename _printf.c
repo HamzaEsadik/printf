@@ -3,7 +3,7 @@
 #include <unistd.h>
 
 /**
-  * find_function - function that finds the right formats for
+  * find_function - a function that finds the right formats for
   * printf function calls the corresponding function.
   * @format: format char, string
   * Return: NULL or function associated ;
