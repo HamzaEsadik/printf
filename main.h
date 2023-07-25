@@ -7,6 +7,7 @@ int print_string(va_list s);
 int _printf(const char *format, ...);
 int print_char(va_list c);
 int print_int(va_list i);
+int print_dec(va_list d);
 typedef struct code_format
 {
   char *sn;
