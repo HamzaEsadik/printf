@@ -1,11 +1,11 @@
 #include <stdio.h>
-#include <stdlib.h>
 #include "main.h"
 
 /**
  * print_char - types char C standard output
- * @c: char printc
+ * @c: char print
  * Return: 1
+ *
  */
 int print_char(va_list c)
 {
