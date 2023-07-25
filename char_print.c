@@ -3,8 +3,8 @@
 #include "main.h"
 
 /**
- * print_char - types char C standard out/put
- * @c: char print
+ * print_char - types char C standard output
+ * @c: char printc
  * Return: 1
  */
 int print_char(va_list c)
