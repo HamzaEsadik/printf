@@ -4,7 +4,7 @@
 
 /**
  * print_char - types char C standard output
- * @c: char printed
+ * @c: char print
  * Return: 1
  */
 int print_char(va_list c)
