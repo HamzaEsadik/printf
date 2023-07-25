@@ -7,6 +7,7 @@
   * printf function calls the corresponding function.
   * @format: format char, string
   * Return: NULL or function associated ;
+  *
   */
 int (*find_function(const char *format))(va_list)
 {
