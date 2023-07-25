@@ -3,7 +3,7 @@
 #include "main.h"
 
 /**
- * print_char - types char C standard out.put
+ * print_char - types char C standard out/put
  * @c: char print
  * Return: 1
  */
