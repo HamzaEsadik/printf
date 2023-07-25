@@ -1,5 +1,5 @@
 #include <unistd.h>
-#include "main.h"
+
 /**
  * _putchar - types the character c to standard output
  * @c: printed char
