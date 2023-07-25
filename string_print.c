@@ -1,6 +1,6 @@
 #include "main.h"
-#include <stdlib.h>
 #include <stdio.h>
+#include <stdlib.h>
 
 /**
  * print_string - prints the string c to standard output
