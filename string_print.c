@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 /**
- * print_string - prints the string c to standard output
+ * print_string - prints the string c to std
  * @s: the string printed
  * Return: 1
  */
