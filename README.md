@@ -8,8 +8,8 @@ The 'printf' function is a standard library feature and requires the inclusion o
 
 Its main function is to write the C string pointed to by the 'format' parameter to the standard output (stdout). If the 'format' includes format specifiers (beginning with '%'), any additional arguments provided after the 'format' will be formatted accordingly and inserted into the resulting string, replacing their respective specifiers as needed.
 ### Parameters
- > **format** -> A sequence of characters in C that holds the text intended to be written to the standard output
-> 
+ > **format** -> A sequence of characters in C that holds the text intended to be written to the standard output.
+
 The most crucial part is the specifier character at the end as it determines both the type of data and how its corresponding argument should be interpreted.
  Specifier | Output | Example
 ------------ | ------------- |-----------
