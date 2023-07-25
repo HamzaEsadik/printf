@@ -7,7 +7,7 @@
  */
 int print_int(va_list i)
 {
-  int len, powten, j, digit, n, count = 0, num;
+	int len, powten, j, digit, n, count = 0, num;
 
 	n = va_arg(i, int);
 	if (n != 0)
