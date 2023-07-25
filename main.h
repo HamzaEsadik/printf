@@ -10,7 +10,7 @@ int print_int(va_list i);
 int print_dec(va_list d);
 typedef struct code_format
 {
-  char *sn;
-  int (*f)(va_list);
+char *sn;
+int (*f)(va_list);
 } code_f;
 #endif
