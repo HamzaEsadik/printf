@@ -8,6 +8,7 @@ int _printf(const char *format, ...);
 int print_char(va_list c);
 int print_int(va_list i);
 int print_dec(va_list d);
+int print_bin(va_list b);
 /**
   * struct code_format - stuct
   * @sn: variable
