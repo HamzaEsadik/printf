@@ -6,7 +6,7 @@
   * find_function - a function that finds the right formats for
   * printf function calls the corresponding function.
   * @format: format char, string
-  * Return: NULL or function associated ;
+  * Return: NULL or function associated
   *
   */
 int (*find_function(const char *format))(va_list)
