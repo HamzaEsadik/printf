@@ -8,7 +8,7 @@ int _printf(const char *format, ...);
 int print_char(va_list c);
 typedef struct code_format
 {
-  char *sc;
+  char *sn;
   int (*f)(va_list);
 } code_f;
 #endif
