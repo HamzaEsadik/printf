@@ -4,7 +4,7 @@
 
 /**
  * print_string - prints the string c to standard output
- * @s: string printed
+ * @s: the string printed
  * Return: 1
  */
 int print_string(va_list s)
