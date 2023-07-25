@@ -19,7 +19,7 @@ The most crucial part is the specifier character at the end as it determines bot
   i and d | Signed decimal integer | 98 
  b | Unsigned binary | 10101
  
- ## [Flowchart.](https://drive.google.com/file/d/1WifeCZBo-Gv2Ms5sse6a9_5qKeI-5hE6/view?usp=sharing)
+ ## [Flowchart](https://drive.google.com/file/d/1WifeCZBo-Gv2Ms5sse6a9_5qKeI-5hE6/view?usp=sharing)
 
  ## Contributors
 - [Hamza Esadik](https://github.com/HamzaEsadik)
